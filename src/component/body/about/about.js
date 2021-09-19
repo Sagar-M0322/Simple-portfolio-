@@ -7,9 +7,9 @@ function About() {
         <div className="about">
             <div className="abouttop">
                 <div className="aboutinfo">
-                    Hi there this <span className="name">Sagar</span>
+                    Hi this is <span className="name">Sagar</span>
                     <br/> I love to develop websites
-                    <br/>and explore in the web development tools as well.
+                    <br/>and intrested in web development.
                 </div>
                 <div className="aboutphoto">
                     <img src={require('../../../assets/image1.jpeg').default} 
