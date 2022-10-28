@@ -20,6 +20,15 @@ export const Projectdata=[
     },
     {
         id:1,
+        title:"Desktop Assistant using Python and Figma UIUX tool",
+        about:<b>"Desktop Voice Assistant."</b>,
+        tags:['Python','Figma','NLP','Speech to text'],
+        demo:require('../../assets/Assistant_Video.mp4').default,
+        github:"gxfg",
+        image:require('../../assets/assistant.png').default,
+    },
+    {
+        id:1,
         title:<b>"For more projects please refer the github link belove"</b>,
         about:"",
         tags:[],

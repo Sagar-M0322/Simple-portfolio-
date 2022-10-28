@@ -16,8 +16,8 @@ function Contact(props) {
                 <SocialContact/>
               </div>
               <div className="download">
-                  <a download href={require('../../../assets/SAGAR M(Resume).pdf').default}>
-                  <i class="fi-rr-cloud-download download-icon"  ></i>Download Resumne</a>
+                  <a download href={require('../../../assets/Sagar_M(Resume).pdf').default}>
+                  <i class="fi-rr-cloud-download download-icon"  ></i>Download Resume</a>
               </div>
           </div>
         </div>

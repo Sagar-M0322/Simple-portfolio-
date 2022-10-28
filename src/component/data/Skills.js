@@ -31,10 +31,6 @@ export const SkillData=[
                 icon:<i class="devicon-javascript-plain colored"></i>,  
             },
             {
-                name:"JAVA",
-                icon:<i class="devicon-java-plain-wordmark colored"></i>,  
-            },
-            {
                 name:"Django",
                 icon:<i class="devicon-django-plain-wordmark colored"></i>
             },
@@ -42,8 +38,16 @@ export const SkillData=[
         ],
     },
     {
-        type:"Devops tools(Know Basics of the folloing tools)",
+        type:"Devops tools",
         list:[
+            {
+                name:"AWS",
+                icon:<i class="devicon-amazonwebservices-plain-wordmark colored"></i>,  
+            },
+            {
+                name:"Kubrnates",
+                icon:<i class="devicon-kubernetes-plain colored"></i>,  
+            },
             {
                 name:"Docker",
                 icon:<i class="devicon-docker-plain-wordmark colored"></i>,  

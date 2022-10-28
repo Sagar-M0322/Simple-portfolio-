@@ -1,11 +1,11 @@
 export const WorkData=[
     {
-        company:"Wipro",
+        company:"Labcopr",
         campanylogo:require('../../assets/download.png').default,
-        designation:"Desktop support Engineer",
-        dataOfJoin:"22-08-2018",
-        dateOfEnd:"17-07-2019",
-        description:"Resolving the issues related to local mechines.Updating the local systems.Monitoring the tickets which were raised by the users on perticular issue.maintaing servers and updating the software of the same",
+        designation:"Sys Admin(AWS) ",
+        dataOfJoin:"17-01-2022",
+        dateOfEnd:"Currently Working",
+        description:"Maintain, Manage and monitoring the cloud infrastructure,Infrastructure as a Code (Terraform) used to create and manage entire cloud infrastructure,Creating CI/CD pipelines for continuous delivery.Creating cloudwatch alarms and rules for the AWS resources for monitoring purpose"
     }
 
 ]
